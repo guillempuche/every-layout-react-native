@@ -1,7 +1,7 @@
 {
   "name": "every-layout-react-native",
   "version": "0.1.0",
-  "description": "test",
+  "description": "Implementation of Every Layout that makes the UI development easier thanks to a common layout primitives",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
